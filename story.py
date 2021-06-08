@@ -501,7 +501,7 @@ colors = {
 }
 app.layout = html.Div(children=[
     html.H1(
-        'Wizikey',id='h1',
+        'Google',id='h1',
         style={
             "textAlign": "center",
             'backgroundColor': colors['text']
